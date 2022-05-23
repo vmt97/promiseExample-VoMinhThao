@@ -1,0 +1,74 @@
+{
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/main.scene": {
+    "time": 1653325473390.8533,
+    "uuid": "7d8ae30b-212c-4e64-b547-06ed16332a01",
+    "missing": false
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts": {
+    "time": 1652971640000,
+    "uuid": "38f5f451-1b9e-482e-ab0d-ca5a0256f1c9",
+    "missing": false
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites": {
+    "time": 1652967868000,
+    "uuid": "2714ce6a-7e95-4ca7-ae9a-c255e80a5e90",
+    "missing": false
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts": {
+    "time": 1653325338303.02,
+    "uuid": "3590cdd1-16ef-415f-9d40-1bbaf64603bf",
+    "missing": false
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts": {
+    "time": 1653326111973.5518,
+    "uuid": "bbf30072-1382-4354-b218-7fe66959cf0e",
+    "missing": false
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites/2.png": {
+    "time": 1652967868000,
+    "uuid": "d506cab3-1819-4897-9d16-96b776968eb3",
+    "missing": false
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites/3.png": {
+    "time": 1652967868000,
+    "uuid": "d5649738-d39c-4ce6-9862-fed27312fafc",
+    "missing": false
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites/4.png": {
+    "time": 1652967868000,
+    "uuid": "932a6b84-b2a9-4e73-8ff0-73820febb60a",
+    "missing": false
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites/5.png": {
+    "time": 1652967868000,
+    "uuid": "10e764e9-a59a-4bbc-9245-5d32089c831f",
+    "missing": false
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts.meta": {
+    "time": 1652967820000
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites.meta": {
+    "time": 1652967813000
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.meta": {
+    "time": 1652968221000
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.meta": {
+    "time": 1652971640000
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/main.scene.meta": {
+    "time": 1652967938000
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites/3.png.meta": {
+    "time": 1652967868000
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites/2.png.meta": {
+    "time": 1652967868000
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites/5.png.meta": {
+    "time": 1652967868000
+  },
+  "/Users/fe-minhthao/Documents/test/PromiseExample/assets/sprites/4.png.meta": {
+    "time": 1652967868000
+  }
+}
