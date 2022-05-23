@@ -4096,7 +4096,7 @@
     },
     "component": "",
     "_componentId": "bbf30ByE4JDVLIYf+ZpWc8O",
-    "handler": "orderSpin",
+    "handler": "orderSpinv2",
     "customEventData": ""
   },
   {

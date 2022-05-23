@@ -389,7 +389,7 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 32017462.941817045,
+    "mTimestamp": 37301639.19870496,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
@@ -437,7 +437,7 @@
   },
   "file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts": {
     "mTimestamp": {
-      "mtime": 1653325338303.02,
+      "mtime": 1653331152606.2393,
       "uuid": "3590cdd1-16ef-415f-9d40-1bbaf64603bf"
     },
     "chunkId": "assets/scripts/Reel.js",
@@ -475,7 +475,7 @@
   },
   "file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts": {
     "mTimestamp": {
-      "mtime": 1653326111973.5518,
+      "mtime": 1653331423450.522,
       "uuid": "bbf30072-1382-4354-b218-7fe66959cf0e"
     },
     "chunkId": "assets/scripts/Table.js",

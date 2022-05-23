@@ -35,8 +35,122 @@ export class Table extends Component {
             }
         )
     }
+    
+    spinCompletedV1(){
+        this._reels.forEach(
+            it => {
+                this._listPromise.push(
+                    new Promise((resolve,reject) =>{
+                        it.startSpin(()=>{
+                            resolve(true);
+                        })
+                    })
+                )
+            }
+        );
+        Promise.all(this._listPromise).then( 
+            ()=>{
+                this.onTableStop();
+            }
+        )
+    }
 
-    orderSpin(){
+    spinTimeOutV1(){
+        this.status.string = 'Table Spinning';
+        this._reels.forEach(
+            it => {
+                this._listPromise.push(
+                    new Promise((resolve,reject) =>{
+                        it.startSpin(()=>{
+                            resolve(true);
+                        })
+                        setTimeout(reject =>{
+                            this.onTableTimout();
+                        },10000);
+                    })
+                )
+            }
+        );
+    }
+
+    orderSpinV1(){
+        this.status.string = 'Table Order Spinning';
+        let promise0 = function(reels){
+            return new Promise((resolve,reject) =>{
+                reels[0].startSpin(()=>{
+                    resolve(true)
+                })
+            })
+        }
+        let promise1 = function(reels){
+            return new Promise((resolve,reject) =>{
+                reels[1].startSpin(()=>{
+                    resolve(true)
+                })
+            })
+        }
+        let promise2 = function(reels){
+            return new Promise((resolve,reject) =>{
+                reels[2].startSpin(()=>{
+                    resolve(true)
+                })
+            })
+        }
+        let promise3 = function(reels){
+            return new Promise((resolve,reject) =>{
+                reels[3].startSpin(()=>{
+                    resolve(true)
+                })
+            })
+        }
+        let promise4 = function(reels){
+            return new Promise((resolve,reject) =>{
+                reels[4].startSpin(()=>{
+                    resolve(true)
+                })
+            })
+        }
+
+        Promise.resolve(promise0(this._reels))
+                    .then(()=>promise1(this._reels))
+                    .then(()=>promise2(this._reels))
+                    .then(()=>promise3(this._reels))
+                    .then(()=>promise4(this._reels))
+                    .then(()=>{
+                        this.onTableStop();
+                    })
+    }
+
+   
+    spinCompletedV2(){
+        this.status.string = 'Table Spinning';
+        this._reels.forEach(
+            it => {
+                this._listPromise.push(it.startSpin())  
+            }
+        );
+
+        Promise.all(this._listPromise).then( 
+            ()=>{
+                this.onTableStop();
+            }
+        )
+    }
+
+    spinTimeOutV2(){
+        this.status.string = 'Table Spinning';
+        this._reels.forEach(
+            it => {
+                this._listPromise.push(it.startSpin().catch(()=>{
+                    this.onTableTimout()
+                }))  
+            }
+        );
+    }
+
+    
+
+    orderSpinv2(){
         this.status.string = 'Table Order Spinning';
         Promise.resolve(this._reels[0].startSpin())
                     .then(()=>this._reels[1].startSpin())
@@ -63,6 +177,7 @@ export class Table extends Component {
 
     onTableTimout() {
         this.status.string = 'Table Timeout';
+        this._listPromise = [];
     }
 
     /*
@@ -71,6 +186,7 @@ export class Table extends Component {
     */
     onTableStop() {
         log('onTableStop');
+        this._listPromise = [];
     }
 
     /*

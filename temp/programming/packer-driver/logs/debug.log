@@ -2452,3 +2452,299 @@ debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/a
 debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
 debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
 debug: Target(preview) ends with cost 49.0232892036438ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:53:37 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 17:54:26 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 00:15:11 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:15:38 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 46.08208417892456ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:53:37 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 17:54:26 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 00:15:11 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:15:38 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 50.08067488670349ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:54:26 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:01:53 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts. Last mtime: Tue May 24 2022 00:02:18 GMT+0700 (Indochina Time)@3590cdd1-16ef-415f-9d40-1bbaf64603bf, Current mtime: Tue May 24 2022 01:17:49 GMT+0700 (Indochina Time)@3590cdd1-16ef-415f-9d40-1bbaf64603bf
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:15:38 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:23:53 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts as cce:/internal/x/cc.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 81.86080408096313ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:54:26 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:01:53 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:15:38 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:23:53 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts. Last mtime: Tue May 24 2022 00:02:18 GMT+0700 (Indochina Time)@3590cdd1-16ef-415f-9d40-1bbaf64603bf, Current mtime: Tue May 24 2022 01:17:49 GMT+0700 (Indochina Time)@3590cdd1-16ef-415f-9d40-1bbaf64603bf
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 88.99406909942627ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:01:53 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:03:19 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:23:53 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:25:21 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 52.78927803039551ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:01:53 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:03:19 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:23:53 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:25:21 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 60.49128198623657ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:03:19 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:06:36 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:25:21 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:28:34 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 114.78359794616699ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:03:19 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:06:36 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:25:21 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:28:34 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 84.12219381332397ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:06:36 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:07:17 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:28:34 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:29:18 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 76.94109797477722ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:06:36 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:07:17 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:28:34 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:29:18 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 88.0444540977478ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:07:17 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:10:00 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:29:18 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:32:03 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 62.81680703163147ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:07:17 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:10:00 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:29:18 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:32:03 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 62.700090169906616ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:10:00 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:12:29 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:32:03 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:34:20 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 66.83326292037964ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:10:00 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:12:29 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:32:03 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:34:20 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 65.33515095710754ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:12:29 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:13:42 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:34:20 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:35:45 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 58.71911597251892ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:12:29 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:13:42 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:34:20 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:35:45 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 63.97624111175537ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:13:42 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:18:35 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts. Last mtime: Tue May 24 2022 01:17:49 GMT+0700 (Indochina Time)@3590cdd1-16ef-415f-9d40-1bbaf64603bf, Current mtime: Tue May 24 2022 01:39:12 GMT+0700 (Indochina Time)@3590cdd1-16ef-415f-9d40-1bbaf64603bf
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:35:45 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:40:33 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts as cce:/internal/x/cc.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 95.07479405403137ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:13:42 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:18:36 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts. Last mtime: Tue May 24 2022 01:17:49 GMT+0700 (Indochina Time)@3590cdd1-16ef-415f-9d40-1bbaf64603bf, Current mtime: Tue May 24 2022 01:39:12 GMT+0700 (Indochina Time)@3590cdd1-16ef-415f-9d40-1bbaf64603bf
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:35:45 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:40:33 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts as cce:/internal/x/cc.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 93.10904002189636ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:18:35 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:21:41 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:40:33 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:43:43 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(editor) ends with cost 65.94403100013733ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 18:18:36 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 18:21:41 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Resolve file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts from cce:/internal/x/prerequisite-imports as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts.
+debug: Detected change: file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts. Last mtime: Tue May 24 2022 01:40:33 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e, Current mtime: Tue May 24 2022 01:43:43 GMT+0700 (Indochina Time)@bbf30072-1382-4354-b218-7fe66959cf0e
+debug: Inspect file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as cce:/internal/x/cc.
+debug: Resolve ./Reel from file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Table.ts as file:///Users/fe-minhthao/Documents/test/PromiseExample/assets/scripts/Reel.ts.
+debug: Target(preview) ends with cost 67.34323811531067ms.
